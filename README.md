@@ -4,7 +4,7 @@
 
 | Field | Information |
 |---|---|
-| Name | ISHIME Kevin |
+| Name | ISHIMWE Kevin |
 | Student ID | 20251SEN015 |
 | Group | B |
 | Course | Database Development with PL/SQL (INSY 8311) |
